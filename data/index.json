@@ -181,8 +181,8 @@
        },
        {
         "id" : 6,
-        "image" :"../images/imraan.jpg",
-            "name" : " Imraan",
+        "image" :"https://i.pinimg.com/236x/23/51/3b/23513bbd33460be0161f279035c846fb.jpg",
+            "name" : "Jamie",
             "person" : "lecturer",
             "Description" : "I highly recommend Taflynne, an aspiring web developer with a passion for creating stunning and functional websites. Taflynne has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies."
        }
