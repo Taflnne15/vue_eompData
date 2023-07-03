@@ -1,55 +1,65 @@
 
 {
     "Skills" : [
-       {    "image" :"https://i.postimg.cc/qMbZzVHP/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellan.png",
+
+       {    
+            "id":1,
+            "image" :"https://i.postimg.cc/qMbZzVHP/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellan.png",
            "name" : "HTML",
            "Level" : "intermediate"
        },
-       {   "image" :" https://i.postimg.cc/2y39x24c/css3-logo-png-transparent.png",
+        
+        {  
+            "id":2,
+            "image" :" https://i.postimg.cc/2y39x24c/css3-logo-png-transparent.png",
            "name" : "CSS",
            "Level" : "intermediate"
        },
-       {   "image" :" https://i.postimg.cc/vTdL4h0x/bootstrap-logo.png",
+       {  
+            "id":3,    
+            "image" :" https://i.postimg.cc/vTdL4h0x/bootstrap-logo.png",
            "name" : "Bootstrap",
            "Level" : "expert"
        },
-       {   "image" :"https://i.postimg.cc/65MnKBxv/543-5438423-mysql-logo-hd-png-download.png",
+       {   
+            "id":4, 
+            "image" :"https://i.postimg.cc/65MnKBxv/543-5438423-mysql-logo-hd-png-download.png",
            "name" : "SQL",
            "Level" : "beginner"
        },
-       {   "image" :"https://i.postimg.cc/GmMWvTwm/javascript-logo-41.png ",
+       {   
+            "id":5,
+            "image" :"https://i.postimg.cc/GmMWvTwm/javascript-logo-41.png ",
            "name" : "Javascript",
            "Level" : "Intermediate"
        },
-       {   "image" :"https://i.postimg.cc/4xF0YCVK/Word-Press-blue-logo-svg.png",
-           "name" : "Wordpress",
-           "Level" : "beginner"
-       },
-       {   "image" :"https://i.postimg.cc/0yPz1Jrn/ux.png",
+       {   
+            "id":6,
+            "image" :"https://i.postimg.cc/0yPz1Jrn/ux.png",
            "name" : "UX Design",
            "Level" : "intermediate"
        }
    ],
    "education" : [
        {
-        "image" :" https://i.postimg.cc/hvGncxHF/htprimRY.jpg",
-           "id" : 1,
+            "id" : 1,
+            "image" :" https://i.postimg.cc/hvGncxHF/htprimRY.jpg",
            "name" : "Heathfield Primary",
            "Level" : "Primary",
            "year" : 2017
         
        },
        {
-        "image" :" https://i.postimg.cc/XqgrDwdT/mhs.jpg",
-           "id" : 2,
+            "id" : 2,
+            "image" :" https://i.postimg.cc/XqgrDwdT/mhs.jpg",
            "name" : "Muizenberg High School",
            "Level" : "Matric",
            "year" : 2022
         
        },
        {
-        "image" :"https://i.postimg.cc/L6Wrqhqp/lifechoices.png ",
-           "id" : 3,
+            "id" : 3,
+            "image" :"https://i.postimg.cc/L6Wrqhqp/lifechoices.png ",
            "name" : "Life Choices",
            "Level" : "Full Stack Web Development",
            "year" : 2023
@@ -62,7 +72,7 @@
      
         "id" : 1,
         "name" : "Spur Steak Ranches",
-        "jpb" : "Hostess",
+        "jobType" : "Hostess",
         "description" :" Seated people and made sure take away orders was processed , including any online take away orders."
      
     },
@@ -70,7 +80,7 @@
      
         "id" : 2,
         "name" : "Little Streams",
-        "Level" : "Retail",
+        "jobType" : "Retail",
         "description" : "I worked on weekends only, took caare of front shop and made sure sales were recorded."
     }
     ],
@@ -80,7 +90,7 @@
            "id" : 1,
            "image" :"https://i.postimg.cc/d0NNhVtC/Screenshot-2023-07-03-113520.png",
             "project" : "BMI Calculator",
-            "Description" : "Built using html , css , Javascript & Bootstrap",
+            "builtON" : "Built using html , css , Javascript & Bootstrap",
             "codeUrl" : "https://graceful-hamster-1c04eb.netlify.app",
             "showUrl" : "https://github.com/Taflnne15/jsBMI.git"
        },
@@ -89,7 +99,7 @@
            "id" : 2,
            "image" :"https://i.postimg.cc/4yQ31M0z/Screenshot-2023-07-03-113234.png",
             "project" : "Taflynne Digital Portfolio",
-            "Description" : "Built using html & css",
+            "builtON" : "Built using html & css",
             "codeUrl" : "https://taf-digital-portfolio.netlify.app",
             "showUrl" : "https://github.com/Taflnne15/portfolio-.git"
        },
@@ -98,7 +108,7 @@
            "id" : 3,
            "image" :"https://i.postimg.cc/R0b9vmks/Screenshot-2023-07-03-113900.png",
             "project" : "Animations",
-            "Description" : "Built using html , css .",
+            "builtON" : "Built using html , css .",
             "codeUrl" : "https://serene-paletas-84fee2.netlify.app",
             "showUrl" : "https://github.com/Taflnne15/Animation.git"
        },
@@ -107,7 +117,7 @@
            "id" : 4,
            "image" :"https://i.postimg.cc/Y9tN2fMC/Screenshot-2023-07-03-113000.png",
             "project" : "Calculator",
-            "Description" : "Built using html , css , Javascript & Bootstrap",
+            "builtON" : "Built using html , css , Javascript & Bootstrap",
             "codeUrl" : "https://sparkly-haupia-b97e73.netlify.app",
             "showUrl" : "https://github.com/Taflnne15/jsCalculator.git"
        },
@@ -116,7 +126,7 @@
            "id" : 5,
            "image" :"https://i.postimg.cc/K8gR6kXp/Screenshot-2023-07-03-112822.png",
             "project" : "Ecommerce",
-            "Description" : "Built using html , css , Javascript & Bootstrap",
+            "builtON" : "Built using html , css , Javascript & Bootstrap",
             "codeUrl" : "https://jovial-salamander-8f1b70.netlify.app",
             "showUrl" : "https://github.com/Taflnne15/EOMProject.git"
        },
@@ -125,7 +135,7 @@
            "id" : 6,
            "image" :" https://i.postimg.cc/0jwyLFFM/Screenshot-2023-07-03-113124.png",
             "project" : "Calender",
-            "Description" : "Built using html , css , Bootstrap",
+            "builtON" : "Built using html , css , Bootstrap",
             "codeUrl" : "https://enchanting-pothos-24065a.netlify.app",
             "showUrl" : "https://github.com/Taflnne15/calender.git"
        }
@@ -137,43 +147,43 @@
        {
            "id" : 1,
            "image" :"https://i.postimg.cc/B6MsvvBk/C12-C2-Codi-Kader-1.jpg",
-            "fullname" : "Codi Kader",
-            "Relation" : "Peer",
+            "name" : "Codi Kader",
+            "person" : "Peer",
             "Description" : "Taflynne is a highly thought intellectual from my perspective. She is passionate, ambitious, and hardworking. She is incredibly motivated and has great communication and leadership skills. Any company would be lucky to have her on their team."
        },
        {
            "id" : 2,
            "image" :"https://i.postimg.cc/3N46HrSg/C12-Keeno-Fourie-1.jpg",
-            "fullname" : "Keeno Fourie",
-            "Relation" : "Peer",
+            "name" : "Keeno Fourie",
+            "person" : "Peer",
             "Description" : "Taflynne Summer Petersen is a passionate individual whose passion's lies within the web development industry. She is determined and committed to what she does and I have seen this first hand and up close."
        },
        {
            "id" : 3,
            "image" :"https://i.postimg.cc/gjC7c9Q1/C12-C2-Nuraan-Samsodien-1.jpg",
-            "fullname" : "Nuraan Samodien",
-            "Relation" : "Peer",
+            "name" : "Nuraan Samodien",
+            "person" : "Peer",
             "Description" : "Taflynne is a highly thought intellectual from my perspective. She is passionate, ambitious, and hardworking. She is incredibly motivated and has great communication and leadership skills. Any company would be lucky to have her on their team."
        },
        {
            "id" : 4,
            "image" :"https://i.postimg.cc/Bvtj2HKM/IMG-20220815-WA0002.jpg",
-            "fullname" : "Sibusiso Dyan",
-            "Relation" : "Peer",
+            "name" : "Sibusiso Dyan",
+            "person" : "Peer",
             "Description" : "Taflynne is a highly thought intellectual from my perspective. She is passionate, ambitious, and hardworking. She is incredibly motivated and has great communication and leadership skills. Any company would be lucky to have her on their team."
        },
        {
            "id" : 5,
            "image" :"https://i.postimg.cc/wHLXqLcV/kgodishoface.jpg",
-            "fullname" : " Kgodisho Lebopo",
-            "Relation" : "Peer",
+            "name" : " Kgodisho Lebopo",
+            "person" : "Peer",
             "Description" : "Taflynne's passion for coding and commitment to learning has evident from the start, and she quickly established herslef as a leader among us. She consistently demonstrates a strong work ethic, taking on challenging projects with enthusiasm and tenacity."
        },
        {
         "id" : 6,
         "image" :"../images/imraan.jpg",
-            "fullname" : " Imraan",
-            "Relation" : "lecturer",
+            "name" : " Imraan",
+            "person" : "lecturer",
             "Description" : "I highly recommend Taflynne, an aspiring web developer with a passion for creating stunning and functional websites. Taflynne has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies."
        }
    ]
