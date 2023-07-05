@@ -91,8 +91,9 @@
            "image" :"https://i.postimg.cc/d0NNhVtC/Screenshot-2023-07-03-113520.png",
             "project" : "BMI Calculator",
             "builtON" : "Built using html , css , Javascript & Bootstrap",
-            "codeUrl" : "https://graceful-hamster-1c04eb.netlify.app",
-            "showUrl" : "https://github.com/Taflnne15/jsBMI.git"
+            "details": "This BMI calculator was more focused on how to use else and if statemnts in calculations with conditions if someones weight is calculated.",
+            "liveLink" : "https://graceful-hamster-1c04eb.netlify.app",
+            "Url" : "https://github.com/Taflnne15/jsBMI.git"
        },
        {
            
@@ -100,8 +101,9 @@
            "image" :"https://i.postimg.cc/4yQ31M0z/Screenshot-2023-07-03-113234.png",
             "project" : "Taflynne Digital Portfolio",
             "builtON" : "Built using html & css",
-            "codeUrl" : "https://taf-digital-portfolio.netlify.app",
-            "showUrl" : "https://github.com/Taflnne15/portfolio-.git"
+            "details": "This was our first start-up prjoect on how to use HTML and CSS and how to link pages.",
+            "liveLink" : "https://taf-digital-portfolio.netlify.app",
+            "Url" : "https://github.com/Taflnne15/portfolio-.git"
        },
        {
            
@@ -109,8 +111,9 @@
            "image" :"https://i.postimg.cc/R0b9vmks/Screenshot-2023-07-03-113900.png",
             "project" : "Animations",
             "builtON" : "Built using html , css .",
-            "codeUrl" : "https://serene-paletas-84fee2.netlify.app",
-            "showUrl" : "https://github.com/Taflnne15/Animation.git"
+            "details": "This is a waving hand animation, we were asked to make an animation out of an emoji o image. The main focus here was CSS.",
+            "liveLink" : "https://serene-paletas-84fee2.netlify.app",
+            "Url" : "https://github.com/Taflnne15/Animation.git"
        },
        {
            
@@ -118,8 +121,9 @@
            "image" :"https://i.postimg.cc/Y9tN2fMC/Screenshot-2023-07-03-113000.png",
             "project" : "Calculator",
             "builtON" : "Built using html , css , Javascript & Bootstrap",
-            "codeUrl" : "https://sparkly-haupia-b97e73.netlify.app",
-            "showUrl" : "https://github.com/Taflnne15/jsCalculator.git"
+            "details": "This was a javascript excercise on building a fully functional calculator , the main objective was how to use functions and operators.",
+            "liveLink" : "https://sparkly-haupia-b97e73.netlify.app",
+            "Url" : "https://github.com/Taflnne15/jsCalculator.git"
        },
        {
            
@@ -127,8 +131,9 @@
            "image" :"https://i.postimg.cc/K8gR6kXp/Screenshot-2023-07-03-112822.png",
             "project" : "Ecommerce",
             "builtON" : "Built using html , css , Javascript & Bootstrap",
-            "codeUrl" : "https://jovial-salamander-8f1b70.netlify.app",
-            "showUrl" : "https://github.com/Taflnne15/EOMProject.git"
+            "details": "This was a javascript end of module project, where we had to build e-commerce mainly off javascript ,this included a checkout page and the main focus was the crud system and using local storage. Calculation was also a requiremnt. ",
+            "liveLink" : "https://jovial-salamander-8f1b70.netlify.app",
+            "Url" : "https://github.com/Taflnne15/EOMProject.git"
        },
        {
            
@@ -136,8 +141,9 @@
            "image" :" https://i.postimg.cc/0jwyLFFM/Screenshot-2023-07-03-113124.png",
             "project" : "Calender",
             "builtON" : "Built using html , css , Bootstrap",
-            "codeUrl" : "https://enchanting-pothos-24065a.netlify.app",
-            "showUrl" : "https://github.com/Taflnne15/calender.git"
+            "details": "We had to build a calender with bootstrap using grid,this was to focus on alignment and understanding what bootstrap is.",
+            "liveLink" : "https://enchanting-pothos-24065a.netlify.app",
+            "Url" : "https://github.com/Taflnne15/calender.git"
        }
         
       
