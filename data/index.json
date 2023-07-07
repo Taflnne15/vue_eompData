@@ -23,9 +23,9 @@
        },
        {   
             "id":4, 
-            "image" :"https://i.postimg.cc/65MnKBxv/543-5438423-mysql-logo-hd-png-download.png",
-           "name" : "SQL",
-           "Level" : "beginner"
+            "image" :"https://i.postimg.cc/hjR3kLmR/create-a-global-vue-js-event-bus.jpg",
+           "name" : "Vue",
+           "Level" : "Intermediate"
        },
        {   
             "id":5,
@@ -45,7 +45,7 @@
             "id" : 1,
             "image" :" https://i.postimg.cc/hvGncxHF/htprimRY.jpg",
            "name" : "Heathfield Primary",
-           "Level" : "Primary",
+           "Level" : "Grade 7",
            "year" : 2017
         
        },
